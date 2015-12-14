@@ -1,3 +1,3 @@
 # ml-expts
 
-this repository will contain my random experiments in the field of machine learning
+random machine learning experiments
